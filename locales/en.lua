@@ -7,6 +7,7 @@ local Translations = {
         not_enough = "Not enough money",
         no_garage = "None",
         vehicle_occupied = "You can't store this vehicle as it is not empty",
+        no_parking_space_available = "Unfortunatelly there is no available space to park the venicle. Be patient until one space is free!",
     },
     success = {
         vehicle_parked = "Vehicle Stored",
@@ -52,6 +53,7 @@ local Translations = {
         air_e = "E - Hangar",
         park_e = "E - Store Vehicle",
         house_garage = "House garage",
+        enter_garage = "You have entered Parking lot. Press F1 to interact"
     }
 }
 
